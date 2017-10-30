@@ -1,6 +1,6 @@
 # HTML
 
-* [Validation](#Validation)
+* [Validation](#validation)
 * [Attributes and Tags](#attributes-and-tags)
 * [Indentation](#indentation)
 * [Whitespace](#whitespace)
