@@ -26,7 +26,7 @@ For humans:
 ```
 
 ## Indentation
-4 spaces tab
+tab (tab width of roughly 4 columns)
 
 ## Whitespace
 * Lines should have no trailing whitespace at the end.
